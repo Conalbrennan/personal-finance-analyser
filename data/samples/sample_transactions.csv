@@ -1,13 +1,39 @@
-date,description,amount,account
-2025-06-28,Salary - ACME Ltd,2500.00,Main Current
-2025-06-29,Rent - June,-1200.00,Main Current
-2025-06-30,TESCO - Weekly shop,-58.32,Main Current
-2025-06-30,Transport for London,-7.40,Main Current
-2025-07-01,Netflix Subscription,-10.99,Main Current
-2025-07-02,Uber Trip,-12.50,Main Current
-2025-07-03,Coffee Shop,-3.20,Main Current
-2025-07-05,Amazon Marketplace,-23.49,Main Current
-2025-07-08,Sainsbury's,-42.10,Main Current
-2025-07-10,Electricity Bill,-85.00,Main Current
-2025-07-15,Spotify,-9.99,Main Current
-2025-07-28,Salary - ACME Ltd,2500.00,Main Current
+date,description,amount,balance
+2025-06-01,Rent - June,-1200.00,
+2025-06-01,Netflix Subscription,-10.99,
+2025-06-02,Coffee Shop,-3.20,
+2025-06-03,TESCO - Weekly shop,-58.32,
+2025-06-05,Transport for London,-7.40,
+2025-06-07,Amazon Marketplace,-23.49,
+2025-06-10,TESCO - Top up,-42.10,
+2025-06-15,Spotify,-9.99,
+2025-06-17,TESCO - Fresh produce,-36.85,
+2025-06-24,TESCO - Household,-51.22,
+2025-06-29,Electricity Bill,-85.00,
+2025-06-28,Salary - ACME Ltd,2500.00,
+
+2025-07-01,Rent - July,-1200.00,
+2025-07-01,Netflix Subscription,-10.99,
+2025-07-02,Uber Trip,-12.50,
+2025-07-03,Coffee Shop,-3.20,
+2025-07-03,Sainsbury's - Weekly shop,-42.10,
+2025-07-08,Amazon Marketplace,-29.95,
+2025-07-10,Sainsbury's - Top up,-47.35,
+2025-07-10,Electricity Bill,-85.00,
+2025-07-15,Spotify,-9.99,
+2025-07-17,Sainsbury's - Fresh produce,-39.80,
+2025-07-24,Sainsbury's - Household,-55.20,
+2025-07-28,Salary - ACME Ltd,2500.00,
+
+2025-08-01,Rent - August,-1200.00,
+2025-08-01,Netflix Subscription,-10.99,
+2025-08-03,Gym Membership,-29.99,
+2025-08-04,Coffee Shop,-3.20,
+2025-08-05,TESCO - Weekly shop,-46.12,
+2025-08-06,Transport for London,-7.40,
+2025-08-09,Amazon Marketplace,-19.99,
+2025-08-12,Electricity Bill,-92.00,
+2025-08-15,Spotify,-9.99,
+2025-08-19,Sainsbury's - Weekly shop,-44.75,
+2025-08-20,Uber Trip,-13.80,
+2025-08-28,Salary - ACME Ltd,2500.00,
